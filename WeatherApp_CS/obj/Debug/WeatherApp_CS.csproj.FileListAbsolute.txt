@@ -25,3 +25,16 @@ E:\WeatherAppCS\WeatherApp_cs\WeatherApp_CS\WeatherApp_CS\obj\Debug\WeatherApp_C
 E:\WeatherAppCS\WeatherApp_cs\WeatherApp_CS\WeatherApp_CS\obj\Debug\WeatherApp_CS.csproj.CoreCompileInputs.cache
 E:\WeatherAppCS\WeatherApp_cs\WeatherApp_CS\WeatherApp_CS\obj\Debug\WeatherApp_CS.exe
 E:\WeatherAppCS\WeatherApp_cs\WeatherApp_CS\WeatherApp_CS\obj\Debug\WeatherApp_CS.pdb
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\obj\Debug\WeatherApp_CS.csprojResolveAssemblyReference.cache
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\obj\Debug\WeatherApp_CS.Form1.resources
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\obj\Debug\WeatherApp_CS.Properties.Resources.resources
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\obj\Debug\WeatherApp_CS.csproj.GenerateResource.Cache
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\obj\Debug\WeatherApp_CS.csproj.CoreCompileInputs.cache
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\obj\Debug\WeatherApp_CS.exe
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\obj\Debug\WeatherApp_CS.pdb
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\bin\Debug\WeatherApp_CS.exe.config
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\bin\Debug\WeatherApp_CS.exe
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\bin\Debug\WeatherApp_CS.pdb
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\bin\Debug\HtmlAgilityPack.dll
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\bin\Debug\HtmlAgilityPack.pdb
+C:\work\work_cs\WeatherApp_cs\WeatherApp_CS\bin\Debug\HtmlAgilityPack.xml

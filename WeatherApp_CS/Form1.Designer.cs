@@ -45,23 +45,25 @@
             this.labelPrecipi02 = new System.Windows.Forms.Label();
             this.labelPrecipi03 = new System.Windows.Forms.Label();
             this.labelPrecipi04 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // labelTitle
             // 
             this.labelTitle.AutoSize = true;
-            this.labelTitle.Font = new System.Drawing.Font("MS UI Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.labelTitle.Location = new System.Drawing.Point(10, 10);
+            this.labelTitle.Font = new System.Drawing.Font("MS UI Gothic", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.labelTitle.Location = new System.Drawing.Point(12, 60);
             this.labelTitle.Name = "labelTitle";
-            this.labelTitle.Size = new System.Drawing.Size(70, 14);
+            this.labelTitle.Size = new System.Drawing.Size(73, 15);
             this.labelTitle.TabIndex = 0;
             this.labelTitle.Text = "labelTitle";
             // 
             // labelAnnounce
             // 
             this.labelAnnounce.AutoSize = true;
-            this.labelAnnounce.Location = new System.Drawing.Point(10, 40);
+            this.labelAnnounce.Location = new System.Drawing.Point(12, 90);
             this.labelAnnounce.Name = "labelAnnounce";
             this.labelAnnounce.Size = new System.Drawing.Size(79, 12);
             this.labelAnnounce.TabIndex = 1;
@@ -70,7 +72,7 @@
             // labelDate
             // 
             this.labelDate.AutoSize = true;
-            this.labelDate.Location = new System.Drawing.Point(10, 70);
+            this.labelDate.Location = new System.Drawing.Point(12, 120);
             this.labelDate.Name = "labelDate";
             this.labelDate.Size = new System.Drawing.Size(53, 12);
             this.labelDate.TabIndex = 2;
@@ -79,7 +81,7 @@
             // labelWeather
             // 
             this.labelWeather.AutoSize = true;
-            this.labelWeather.Location = new System.Drawing.Point(10, 90);
+            this.labelWeather.Location = new System.Drawing.Point(12, 140);
             this.labelWeather.Name = "labelWeather";
             this.labelWeather.Size = new System.Drawing.Size(70, 12);
             this.labelWeather.TabIndex = 3;
@@ -87,7 +89,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(10, 110);
+            this.pictureBox1.Location = new System.Drawing.Point(12, 160);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(100, 50);
             this.pictureBox1.TabIndex = 4;
@@ -96,7 +98,7 @@
             // labelTempHigh
             // 
             this.labelTempHigh.AutoSize = true;
-            this.labelTempHigh.Location = new System.Drawing.Point(10, 170);
+            this.labelTempHigh.Location = new System.Drawing.Point(12, 220);
             this.labelTempHigh.Name = "labelTempHigh";
             this.labelTempHigh.Size = new System.Drawing.Size(80, 12);
             this.labelTempHigh.TabIndex = 5;
@@ -105,7 +107,7 @@
             // labelTempLow
             // 
             this.labelTempLow.AutoSize = true;
-            this.labelTempLow.Location = new System.Drawing.Point(10, 190);
+            this.labelTempLow.Location = new System.Drawing.Point(12, 240);
             this.labelTempLow.Name = "labelTempLow";
             this.labelTempLow.Size = new System.Drawing.Size(77, 12);
             this.labelTempLow.TabIndex = 6;
@@ -114,7 +116,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(10, 220);
+            this.label1.Location = new System.Drawing.Point(12, 270);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(41, 12);
             this.label1.TabIndex = 7;
@@ -123,7 +125,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(70, 220);
+            this.label2.Location = new System.Drawing.Point(72, 270);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 12);
             this.label2.TabIndex = 8;
@@ -132,7 +134,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(110, 220);
+            this.label3.Location = new System.Drawing.Point(112, 270);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(35, 12);
             this.label3.TabIndex = 9;
@@ -141,7 +143,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(150, 220);
+            this.label4.Location = new System.Drawing.Point(152, 270);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(35, 12);
             this.label4.TabIndex = 10;
@@ -150,7 +152,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(190, 220);
+            this.label5.Location = new System.Drawing.Point(192, 270);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(35, 12);
             this.label5.TabIndex = 11;
@@ -159,7 +161,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(10, 240);
+            this.label6.Location = new System.Drawing.Point(12, 290);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(53, 12);
             this.label6.TabIndex = 12;
@@ -168,7 +170,7 @@
             // labelPrecipi01
             // 
             this.labelPrecipi01.AutoSize = true;
-            this.labelPrecipi01.Location = new System.Drawing.Point(70, 240);
+            this.labelPrecipi01.Location = new System.Drawing.Point(72, 290);
             this.labelPrecipi01.Name = "labelPrecipi01";
             this.labelPrecipi01.Size = new System.Drawing.Size(23, 12);
             this.labelPrecipi01.TabIndex = 13;
@@ -178,7 +180,7 @@
             // labelPrecipi02
             // 
             this.labelPrecipi02.AutoSize = true;
-            this.labelPrecipi02.Location = new System.Drawing.Point(110, 240);
+            this.labelPrecipi02.Location = new System.Drawing.Point(112, 290);
             this.labelPrecipi02.Name = "labelPrecipi02";
             this.labelPrecipi02.Size = new System.Drawing.Size(23, 12);
             this.labelPrecipi02.TabIndex = 14;
@@ -188,7 +190,7 @@
             // labelPrecipi03
             // 
             this.labelPrecipi03.AutoSize = true;
-            this.labelPrecipi03.Location = new System.Drawing.Point(150, 240);
+            this.labelPrecipi03.Location = new System.Drawing.Point(152, 290);
             this.labelPrecipi03.Name = "labelPrecipi03";
             this.labelPrecipi03.Size = new System.Drawing.Size(23, 12);
             this.labelPrecipi03.TabIndex = 15;
@@ -198,18 +200,42 @@
             // labelPrecipi04
             // 
             this.labelPrecipi04.AutoSize = true;
-            this.labelPrecipi04.Location = new System.Drawing.Point(190, 240);
+            this.labelPrecipi04.Location = new System.Drawing.Point(192, 290);
             this.labelPrecipi04.Name = "labelPrecipi04";
             this.labelPrecipi04.Size = new System.Drawing.Size(23, 12);
             this.labelPrecipi04.TabIndex = 16;
             this.labelPrecipi04.Text = "---";
             this.labelPrecipi04.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
+            // comboBox1
+            // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(15, 13);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 20);
+            this.comboBox1.TabIndex = 17;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            // 
+            // linkLabel1
+            // 
+            this.linkLabel1.AutoSize = true;
+            this.linkLabel1.Font = new System.Drawing.Font("MS UI Gothic", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.linkLabel1.Location = new System.Drawing.Point(15, 334);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(153, 12);
+            this.linkLabel1.TabIndex = 18;
+            this.linkLabel1.TabStop = true;
+            this.linkLabel1.Text = "Powerd by Yahoo! Japan";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(357, 358);
+            this.Controls.Add(this.linkLabel1);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.labelPrecipi04);
             this.Controls.Add(this.labelPrecipi03);
             this.Controls.Add(this.labelPrecipi02);
@@ -228,7 +254,7 @@
             this.Controls.Add(this.labelAnnounce);
             this.Controls.Add(this.labelTitle);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Yahoo!天気予報";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -255,6 +281,8 @@
         private System.Windows.Forms.Label labelPrecipi02;
         private System.Windows.Forms.Label labelPrecipi03;
         private System.Windows.Forms.Label labelPrecipi04;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.LinkLabel linkLabel1;
     }
 }
 
